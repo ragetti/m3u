@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 channel-id="13.1" channel-number="13.1" tvg-id="WREX-DT.us_locals1" tvg-name="WREX" tvg-chno="13.1",13.1 WREX
+http://10.42.42.11:5004/auto/v13.1
+#EXTINF:-1 channel-id="13.2" channel-number="13.2" tvg-id="MeTV.Toons.us2" tvg-name="MeTOONS" tvg-chno="13.2",13.2 MeTOONS
+http://10.42.42.11:5004/auto/v13.2
+#EXTINF:-1 channel-id="13.3" channel-number="13.3" tvg-id="Me.TV.Network.us2" tvg-name="WREXME" tvg-chno="13.3",13.3 WREXME
+http://10.42.42.11:5004/auto/v13.3
+#EXTINF:-1 channel-id="13.4" channel-number="13.4" tvg-id="Court.TV.us2" tvg-name="CourtTV" tvg-chno="13.4",13.4 CourtTV
+http://10.42.42.11:5004/auto/v13.4
+#EXTINF:-1 channel-id="13.5" channel-number="13.5" tvg-id="Court.TV.us2" tvg-name="CRIME" tvg-chno="13.5",13.5 CRIME
+http://10.42.42.11:5004/auto/v13.5
+#EXTINF:-1 channel-id="15.1" channel-number="15.1" tvg-id="WMTV-DT.us_locals1" tvg-name="WMTVNBC" tvg-chno="15.1",15.1 WMTVNBC
+http://10.42.42.11:5004/auto/v15.1
+#EXTINF:-1 channel-id="15.2" channel-number="15.2" tvg-id="CW.us2" tvg-name="CW.us" tvg-chno="15.2",15.2 WMTV-CW
+http://10.42.42.11:5004/auto/v15.2
+#EXTINF:-1 channel-id="15.3" channel-number="15.3" tvg-id="WMTV-DT.us_locals1" tvg-name="OUTLAW" tvg-chno="15.3",15.3 OUTLAW
+http://10.42.42.11:5004/auto/v15.3
+#EXTINF:-1 channel-id="15.4" channel-number="15.4" tvg-id="Me.TV.Network.us2" tvg-name="MeTV" tvg-chno="15.4",15.4 MeTV
+http://10.42.42.11:5004/auto/v15.4
+#EXTINF:-1 channel-id="15.5" channel-number="15.5" tvg-id="Start.TV.Network.us2" tvg-name="STARTTV" tvg-chno="15.5",15.5 STARTTV
+http://10.42.42.11:5004/auto/v15.5
+#EXTINF:-1 channel-id="15.6" channel-number="15.6" tvg-id="365BLK.us2" tvg-name="THE365" tvg-chno="15.6",15.6 THE365
+http://10.42.42.11:5004/auto/v15.6
+#EXTINF:-1 channel-id="17.1" channel-number="17.1" tvg-id="WTVO-DT.us_locals1" tvg-name="WTVO-DT" tvg-chno="17.1",17.1 WTVO-DT
+http://10.42.42.11:5004/auto/v17.1
+#EXTINF:-1 channel-id="17.2" channel-number="17.2" tvg-id="My.Network.us2" tvg-name="My Net" tvg-chno="17.2",17.2 My Net
+http://10.42.42.11:5004/auto/v17.2
+#EXTINF:-1 channel-id="17.3" channel-number="17.3" tvg-id="Laff.us2" tvg-name="Laff" tvg-chno="17.3",17.3 Laff
+http://10.42.42.11:5004/auto/v17.3
+#EXTINF:-1 channel-id="17.4" channel-number="17.4" tvg-id="Grit.us2" tvg-name="Grit" tvg-chno="17.4",17.4 Grit
+http://10.42.42.11:5004/auto/v17.4
+#EXTINF:-1 channel-id="19.1" channel-number="19.1" tvg-id="CW.us2" tvg-name="CW" tvg-chno="19.1",19.1 CW
+http://10.42.42.11:5004/auto/v19.1
+#EXTINF:-1 channel-id="19.2" channel-number="19.2" tvg-id="WSLN-DT.us_locals1" tvg-name="WSLN365" tvg-chno="19.2",19.2 WSLN365
+http://10.42.42.11:5004/auto/v19.2
+#EXTINF:-1 channel-id="19.3" channel-number="19.3" tvg-id="WSLN-DT3.us_locals1" tvg-name="WXPLUS" tvg-chno="19.3",19.3 WXPLUS
+http://10.42.42.11:5004/auto/v19.3
+#EXTINF:-1 channel-id="21.1" channel-number="21.1" tvg-id="WHA-DT.us_locals1" tvg-name="PBSWI" tvg-chno="21.1",21.1 PBSWI
+http://10.42.42.11:5004/auto/v21.1
+#EXTINF:-1 channel-id="21.2" channel-number="21.2" tvg-id="WHA-DT2.us_locals1" tvg-name="PBSWI 2" tvg-chno="21.2",21.2 PBSWI 2
+http://10.42.42.11:5004/auto/v21.2
+#EXTINF:-1 channel-id="21.3" channel-number="21.3" tvg-id="WHA-DT3.us_locals1" tvg-name="PBSWI 3" tvg-chno="21.3",21.3 PBSWI 3
+http://10.42.42.11:5004/auto/v21.3
+#EXTINF:-1 channel-id="21.4" channel-number="21.4" tvg-id="WHA-DT4.us_locals1" tvg-name="PBSWI 4" tvg-chno="21.4",21.4 PBSWI 4
+http://10.42.42.11:5004/auto/v21.4
+#EXTINF:-1 channel-id="23.1" channel-number="23.1" tvg-id="WIFR-LD.us_locals1" tvg-name="WIFR" tvg-chno="23.1",23.1 WIFR
+http://10.42.42.11:5004/auto/v23.1
+#EXTINF:-1 channel-id="23.2" channel-number="23.2" tvg-id="Antenna.TV.us2" tvg-name="Antenna" tvg-chno="23.2",23.2 Antenna
+http://10.42.42.11:5004/auto/v23.2
+#EXTINF:-1 channel-id="23.3" channel-number="23.3" tvg-id="WIFR-DT3.us_locals1" tvg-name="WIFROUT" tvg-chno="23.3",23.3 WIFROUT
+http://10.42.42.11:5004/auto/v23.3
+#EXTINF:-1 channel-id="23.6" channel-number="23.6" tvg-id="ION_PLUS.us_locals1" tvg-name="IONPLUS" tvg-chno="23.6",23.6 IONPLUS
+http://10.42.42.11:5004/auto/v23.6
+#EXTINF:-1 channel-id="23.7" channel-number="23.7" tvg-id="Defy.TV.us2" tvg-name="DEFY" tvg-chno="23.7",23.7 DEFY
+http://10.42.42.11:5004/auto/v23.7
+#EXTINF:-1 channel-id="23.10" channel-number="23.10" tvg-id="WIFR-LD.us_locals1" tvg-name="WIFR" tvg-chno="23.10",23.10 WIFR
+http://10.42.42.11:5004/auto/v23.10
+#EXTINF:-1 channel-id="23.11" channel-number="23.11" tvg-id="WCBS-DT.us_locals1" tvg-name="CBS23" tvg-chno="23.11",23.11 CBS23
+http://10.42.42.11:5004/auto/v23.11
+#EXTINF:-1 channel-id="27.1" channel-number="27.1" tvg-id="WKOW-DT.us_locals1" tvg-name="WKOWABC" tvg-chno="27.1",27.1 WKOWABC
+http://10.42.42.11:5004/auto/v27.1
+#EXTINF:-1 channel-id="27.2" channel-number="27.2" tvg-id="Catchy.Comedy.us2" tvg-name="CATCHY" tvg-chno="27.2",27.2 CATCHY
+http://10.42.42.11:5004/auto/v27.2
+#EXTINF:-1 channel-id="27.3" channel-number="27.3" tvg-id="MeTV.Toons.us2" tvg-name="MeTOONS" tvg-chno="27.3",27.3 MeTOONS
+http://10.42.42.11:5004/auto/v27.3
+#EXTINF:-1 channel-id="27.4" channel-number="27.4" tvg-id="Court.TV.us2" tvg-name="CourtTV" tvg-chno="27.4",27.4 CourtTV
+http://10.42.42.11:5004/auto/v27.4
+#EXTINF:-1 channel-id="27.5" channel-number="27.5" tvg-id="WKOW-DT5.us_locals1" tvg-name="CRIME" tvg-chno="27.5",27.5 CRIME
+http://10.42.42.11:5004/auto/v27.5
+#EXTINF:-1 channel-id="27.6" channel-number="27.6" tvg-id="WKOW-DT6.us_locals1" tvg-name="WKOW-6" tvg-chno="27.6",27.6 WKOW-6
+http://10.42.42.11:5004/auto/v27.6
+#EXTINF:-1 channel-id="35.1" channel-number="35.1" tvg-id="WHA-DT.us_locals1" tvg-name="HEROES" tvg-chno="35.1",35.1 HEROES
+http://10.42.42.11:5004/auto/v35.1
+#EXTINF:-1 channel-id="35.2" channel-number="35.2" tvg-id="WHA-DT2.us_locals1" tvg-name="TMDO" tvg-chno="35.2",35.2 TMDO
+http://10.42.42.11:5004/auto/v35.2
+#EXTINF:-1 channel-id="35.3" channel-number="35.3" tvg-id="Start.TV.Network.us2" tvg-name="START" tvg-chno="35.3",35.3 START
+http://10.42.42.11:5004/auto/v35.3
+#EXTINF:-1 channel-id="39.1" channel-number="39.1" tvg-id="WQRF-DT.us_locals1" tvg-name="WQRF-DT" tvg-chno="39.1",39.1 WQRF-DT
+http://10.42.42.11:5004/auto/v39.1
+#EXTINF:-1 channel-id="39.2" channel-number="39.2" tvg-id="WQRF-DT2.us_locals1" tvg-name="WQRF-D2" tvg-chno="39.2",39.2 WQRF-D2
+http://10.42.42.11:5004/auto/v39.2
+#EXTINF:-1 channel-id="39.3" channel-number="39.3" tvg-id="ION.Mystery.us2" tvg-name="Mystery" tvg-chno="39.3",39.3 Mystery
+http://10.42.42.11:5004/auto/v39.3
+#EXTINF:-1 channel-id="39.4" channel-number="39.4" tvg-id="COZI.TV.us2" tvg-name="COZI" tvg-chno="39.4",39.4 COZI
+http://10.42.42.11:5004/auto/v39.4
+#EXTINF:-1 channel-id="47.1" channel-number="47.1" tvg-id="WMSN-DT.us_locals1" tvg-name="WMSNFOX" tvg-chno="47.1",47.1 WMSNFOX
+http://10.42.42.11:5004/auto/v47.1
+#EXTINF:-1 channel-id="47.2" channel-number="47.2" tvg-id="WMSN-DT2.us_locals1" tvg-name="Comet" tvg-chno="47.2",47.2 Comet
+http://10.42.42.11:5004/auto/v47.2
+#EXTINF:-1 channel-id="47.3" channel-number="47.3" tvg-id="WMSN-DT3.us_locals1" tvg-name="Charge!" tvg-chno="47.3",47.3 Charge!
+http://10.42.42.11:5004/auto/v47.3
+#EXTINF:-1 channel-id="47.4" channel-number="47.4" tvg-id="ROAR.TV.us2" tvg-name="ROAR" tvg-chno="47.4",47.4 ROAR
+http://10.42.42.11:5004/auto/v47.4
+#EXTINF:-1 channel-id="47.5" channel-number="47.5" tvg-id="The.Nest.us2" tvg-name="NEST" tvg-chno="47.5",47.5 NEST
+http://10.42.42.11:5004/auto/v47.5
+#EXTINF:-1 channel-id="47.6" channel-number="47.6" tvg-id="Antenna.TV.us2" tvg-name="Antenna" tvg-chno="47.6",47.6 Antenna
+http://10.42.42.11:5004/auto/v47.6
+#EXTINF:-1 channel-id="57.1" channel-number="57.1" tvg-id="ION.Television.HD.us2" tvg-name="ION HD" tvg-chno="57.1",57.1 ION HD
+http://10.42.42.11:5004/auto/v57.1
+#EXTINF:-1 channel-id="57.2" channel-number="57.2" tvg-id="Grit.us2" tvg-name="GRIT" tvg-chno="57.2",57.2 GRIT
+http://10.42.42.11:5004/auto/v57.2
+#EXTINF:-1 channel-id="57.3" channel-number="57.3" tvg-id="ION.Mystery.us2" tvg-name="MYSTERY" tvg-chno="57.3",57.3 MYSTERY
+http://10.42.42.11:5004/auto/v57.3
+#EXTINF:-1 channel-id="57.4" channel-number="57.4" tvg-id="BOUNCE.TV.us2" tvg-name="BOUNCE" tvg-chno="57.4",57.4 BOUNCE
+http://10.42.42.11:5004/auto/v57.4
+#EXTINF:-1 channel-id="57.5" channel-number="57.5" tvg-id="Laff.us2" tvg-name="LAFF" tvg-chno="57.5",57.5 LAFF
+http://10.42.42.11:5004/auto/v57.5
+#EXTINF:-1 channel-id="57.6" channel-number="57.6" tvg-id="ION_PLUS.TV.us2" tvg-name="IONPLUS" tvg-chno="57.6",57.6 IONPLUS
+http://10.42.42.11:5004/auto/v57.6
+#EXTINF:-1 channel-id="57.7" channel-number="57.7" tvg-id="Court.TV.us2" tvg-name="COURTTV" tvg-chno="57.7",57.7 COURTTV
+http://10.42.42.11:5004/auto/v57.7
+#EXTINF:-1 channel-id="57.8" channel-number="57.8" tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I" tvg-chno="57.8",57.8 H&I
+http://10.42.42.11:5004/auto/v57.8
+#EXTINF:-1 channel-id="57.9" channel-number="57.9" tvg-id="COZI.TV.us2" tvg-name="COZI" tvg-chno="57.9",57.9 COZI
+http://10.42.42.11:5004/auto/v57.9
